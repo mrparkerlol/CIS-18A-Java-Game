@@ -6,6 +6,8 @@ We should all follow this in order to keep things from collapsing.
 
 - Instead of immediately merging your own commits, create a pull request to prevent things from breaking.
     We will all reach a consensus on merging pull requests before doing so.
+    (Create your own branch for making changes by following this: https://netbeans.org/kb/docs/ide/git.html#branch
+    and ONLY commit to that branch for the entirety of the project)
 - Use consistent styling
     - camelCase for variables
     - UpperCase for classes
