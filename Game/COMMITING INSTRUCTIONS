@@ -1,0 +1,23 @@
+Hello fellow project peeps!
+
+You were redirected by me to read this...
+
+We should all follow this in order to keep things from collapsing.
+
+- Instead of immediately merging your own commits, create a pull request to prevent things from breaking.
+    We will all reach a consensus on merging pull requests before doing so.
+    (Create your own branch for making changes by following this: https://netbeans.org/kb/docs/ide/git.html#branch
+    and ONLY commit to that branch for the entirety of the project)
+- Use consistent styling
+    - camelCase for variables
+    - UpperCase for classes
+    - keep variables inside functions/other local to those if possible
+        If a variable is only used in a for loop or a function, keep it inside it.
+    - No global variables (if possible)
+        If you need to, use a class instead - that's what I do and I pass it as a function argument
+- Make frequent pulls on the repo - to prevent potentially pushing an out of date build by accident
+- Make sure your changes work fully, and don't push a broken change unless you absolutely need to for help
+- Make sure you don't push .exe files or any of that - keep the repo only filled with source files
+- Don't clutter the repo with useless files - everything should be used in the project and if it isn't being used - delete it.
+
+Make sure you add yourself to the Info file in order to get credited for your work. Plug an email, handle, or what have you with your name.
