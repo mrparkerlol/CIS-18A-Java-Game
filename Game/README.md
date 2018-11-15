@@ -1,4 +1,4 @@
-# CIS-18A-Java-Game
+A team project created for CIS 18A at Norco College
 
-
-A group project for CIS-18A for our Final for Fall season.
+Team members:
+    Jacob Parker (@monofur (twitter), Branch: branch-1)
