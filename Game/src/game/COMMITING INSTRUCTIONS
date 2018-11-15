@@ -6,6 +6,8 @@ We should all follow this in order to keep things from collapsing.
 
 - Instead of immediately merging your own commits, create a pull request to prevent things from breaking.
     We will all reach a consensus on merging pull requests before doing so.
+    Each of us has our own branch (Branch-1, etc) - stick to your branch, and ONLY merge with the master branch
+    once we have all agreed in doing so.
 - Use consistent styling
     - camelCase for variables
     - UpperCase for classes
